@@ -71,7 +71,7 @@ export default function HomePage() {
 
           {/* Tech stack */}
           <p className="text-xs text-gray-400 mb-6">
-            FastAPI · Django · Next.js · Tailwind CSS · PostgreSQL
+            · Django · Django REST Framework · Next.js · Tailwind CSS · MongoDB
           </p>
 
           <div className="flex justify-center gap-8">
