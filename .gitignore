@@ -1,0 +1,39 @@
+# Python / Django
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Env files (keep .env.example committed)
+.env
+.env.local
+.env.production
+
+# Django collected files
+staticfiles/
+media/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Frontend env files (keep .env.example)
+frontend/.env.local
+frontend/.env.production
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python build / tools
+build/
+dist/
+*.egg-info/
+
+# Test / cache
+.coverage
+pytest_cache/
